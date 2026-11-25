@@ -1,0 +1,18 @@
+LTspice 26.0.1 for Windows
+Circuit: C:\Users\tisda\OneDrive\Documents\Projects\Bionic Hand V2\Simulations\Draft3.net
+Start Time: Fri Nov 13 21:55:55 2026
+solver = Normal
+Maximum thread count: 16
+tnom = 27
+temp = 27
+method = trap
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+Total elapsed time: 0.094 seconds.
+
+Files loaded:
+C:\Users\tisda\OneDrive\Documents\Projects\Bionic Hand V2\Simulations\Draft3.net
+C:\Users\tisda\AppData\Local\LTspice\lib\sub\LTC.lib
+
