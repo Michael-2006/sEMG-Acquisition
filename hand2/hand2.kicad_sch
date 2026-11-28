@@ -4020,6 +4020,12 @@
 		(uuid "4f194204-aa7e-4767-b6e6-c9371260ee04")
 	)
 	(junction
+		(at 44.45 107.95)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5bd680c7-8a4f-4469-a166-34e491047982")
+	)
+	(junction
 		(at 30.48 31.75)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4108,10 +4114,6 @@
 	(no_connect
 		(at 154.94 115.57)
 		(uuid "31d38202-c38b-4a8e-85b9-bfd2bd42750d")
-	)
-	(no_connect
-		(at 46.99 107.95)
-		(uuid "3f02ed29-93f5-4116-9a49-603e23661f8d")
 	)
 	(no_connect
 		(at 119.38 138.43)
@@ -5004,6 +5006,16 @@
 			(type default)
 		)
 		(uuid "b9fde0f9-6bf0-4b57-840f-3c45236d3f1a")
+	)
+	(wire
+		(pts
+			(xy 46.99 107.95) (xy 44.45 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bcb71f1e-6767-47eb-8576-157baf2ca4ff")
 	)
 	(wire
 		(pts
@@ -10209,7 +10221,7 @@
 			)
 		)
 		(property "Value" "TP4056-42-ESOP8"
-			(at 65.278 110.49 0)
+			(at 64.77 115.57 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
